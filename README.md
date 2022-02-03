@@ -1,9 +1,10 @@
-#Description
+# Description
 
 Development of a RESTful API by using python and flask.
 
 # Status
-In progress.
+
+Works as is. Working on making it more interesting!
 
 # To run the API
 
