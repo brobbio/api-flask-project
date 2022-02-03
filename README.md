@@ -15,5 +15,16 @@ pipenv install
 
 # GET and POST commands
 
+```
+# inserting a new income
+curl -X POST -H "Content-Type: application/json" -d '{
+    "amount": 300.0,
+    "description": "loan payment"
+}' http://localhost:5000/incomes
+
+# listing all incomes
+curl http://localhost:5000/incomes
+```
+
 
 
