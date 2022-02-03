@@ -7,7 +7,9 @@ In progress.
 
 # To run the API
 
-```pipenv install
+```
+pipenv install
+
 ./bootstrap.sh
 ```
 
