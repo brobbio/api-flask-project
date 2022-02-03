@@ -11,3 +11,7 @@ In progress.
 ./bootstrap.sh
 ```
 
+# GET and POST commands
+
+
+
